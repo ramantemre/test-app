@@ -1,77 +1,12 @@
 {
   "posts": [
-  {
-    "UserId": 3;
-    "Id": 21,
-    "Title": "extremely small because of the very pleasure like"
-    "Body": "drives some of this pain that \ is not used up the entire \ nnihil labor troubles are accepted pain outcome will come here \ ntempora they are bound to manage"
-  }
-  {
-    "UserId": 3;
-    "Id": 22;
-    "Title": "when the consumer wants to explain that because"
-    "Body": ", or receives them, who, too, the very \ used all laws, not hatred of \ nexpedita of them is disgraceful cowardice, and undertakes the affair, discomfort, or \ unam to be an impediment to"
-  }
-  {
-    "UserId": 3;
-    "Id": 23,
-    "Title": "most of it is never"
-    "Body": "Truth or how to choose \ nwhich that the builder is not life \ nest it is time to sleep and pain \ net and or happy, but bound to follow any encounter"
-  }
-  {
-    "UserId": 3;
-    "Id": 24;
-    "Title": "Now is the labor pains incident"
-    "Body": "And there is no \ nomnibus pleasure because they \ nvoluptatis will never achieve any of \ ntotam accepted that deserving, or worse yet fail"
-  }
-  {
-    "UserId": 3;
-    "Id": 25,
-    "Title": "separate from any other business"
-    "Body": "the consequences of any such \ nomnibus what is to follow \ nips very annoying and every mistake is choosing \ nmolestiae that time, since the distinction"
-  }
-  {
-    "UserId": 3;
-    "Id": 26,
-    "Title": "There are those who do not hate"
-    "Body": "Nothing like that pain denounce \ nomnibus pain avoidance follow criticized runs accepted seasons \ nperspiciatis to be cheering \ nomnibus or discomfort or indeed"
-  }
-  {
-    "UserId": 3;
-    "Id": 27;
-    "Title": "as it is and those which are bound or"
-    "Body": "the pain, but it may be necessary to blind \ ndebitis those who \ nut-pleasing easy for them or hate \ nconsequatur the needs of the times, but the inventor consequences"
-  }
-  {
-    "UserId": 3;
-    "Id": 28;
-    "Title": "selected for any of the body and a pleasure to follow"
-    "Body": "I do not, and the question to which the letters to the \ nmaiores accepted, or the whole of at that flattery is disgraceful cowardice, which he \ nut in the pleasures of the pleasure of \ nsimilique him, one of us"
-  }
-  {
-    "UserId": 3;
-    "Id": 29,
-    "Title": "Just because of the necessity of"
-    "Body": "hate loud but not so often that \ ntempora and nothing \ naccusamus pain, the pain \ neligendi rejected similar services, but also the great ancestors"
-  }
-  {
-    "UserId": 3;
-    "Id": 30,
-    "Title": "A great like that endures"
-    "Body": "While other consumer \ nimpedit her to pass hate most \ nblanditiis lot of time because it is one thing \ na provision that encounter"
-  }
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
